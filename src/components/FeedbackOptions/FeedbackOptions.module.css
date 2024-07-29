@@ -1,0 +1,15 @@
+.optionArea {
+  display: flex;
+  justify-content: space-around;
+}
+
+.optionButton {
+  padding: 8px 14px;
+  text-transform: uppercase;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.optionButton:hover {
+  background-color: #dbdada;
+}
